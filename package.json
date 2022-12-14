@@ -1,0 +1,11 @@
+{
+  "name": "rimsha_smarterp",
+  "version": "1.0.0",
+  "description": "rimsha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rimshayousuf",
+  "license": "ISC"
+}
